@@ -1,0 +1,5 @@
+1.- abrir terminal
+2.- entrar como superuser con el comando "sudo su"
+3.- ejecutar los siguientes comando para crear el arbol de directorios en la raiz
+    1. cd ../..
+    2. mkdir ../.. -p "folder1/folder2/folder3"
