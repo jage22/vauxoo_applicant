@@ -1,0 +1,3 @@
+comando para dar permisos de ejecucion al siguiente archivo
+/home/vauxoo/make_db.sh
+/home/vauxoo/chmod +x make_db.sh
